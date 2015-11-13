@@ -2,3 +2,21 @@ h1
 {
 	text-decoration: underline;
 }
+/* Common Header */
+*
+{
+	background-color: #d5d5d5;
+}
+.header button
+{
+	background-color:#8C481B;
+	text-align:center;
+}
+button .comingsoon
+{
+	color:#dddddd;
+}
+button
+{
+	display:inline-block;
+}
