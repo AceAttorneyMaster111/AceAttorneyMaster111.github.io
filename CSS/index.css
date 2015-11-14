@@ -19,6 +19,8 @@ button span .comingsoon
 button
 {
 	display:inline-block;
+	height:50px;
+	width:125px;
 }
 nav
 {
