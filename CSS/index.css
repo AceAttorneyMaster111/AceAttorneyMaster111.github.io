@@ -12,16 +12,17 @@ body
 	background-color:#8C481B;
 	text-align:center;
 }
-button span .comingsoon
-{
-	color:#dddddd;
-}
 button
 {
 	display:inline-block;
 	height:50px;
 	width:125px;
 	font-size:20px;
+}
+button span .comingsoon
+{
+	color:#eeeeee;
+	font-size:10px;
 }
 nav
 {
