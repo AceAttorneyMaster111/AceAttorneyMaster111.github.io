@@ -21,8 +21,8 @@ button
 }
 button span .comingsoon
 {
-	color:#eeeeee !important;
-	font-size:10px;
+	color:#eeeeee;
+	font-size:10px!important;
 }
 nav
 {
